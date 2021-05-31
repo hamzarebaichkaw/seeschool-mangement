@@ -1,0 +1,10 @@
+330825,::1,GET,http://localhost/school-management-app/public/,1622452382,,200
+a143da,::1,GET,http://localhost/school-management-app/public/api/,1622452392,,200
+71fd52,::1,GET,http://localhost/school-management-app/public/api/,1622452409,,200
+da5e35,::1,GET,http://localhost/school-management-app/public/api/,1622455517,,200
+75c466,::1,GET,http://localhost/school-management-app/public/api/,1622456478,,200
+40643c,::1,POST,http://localhost/school-management-app/public/api/users,1622456911,,201
+58694a,::1,GET,http://localhost/school-management-app/public/api/login,1622457259,3f7601,404
+3f7601,::1,POST,http://localhost/school-management-app/public/api/login,1622457259,,404
+e40d20,::1,POST,http://localhost/school-management-app/public/api/login_check,1622457269,,200
+626854,::1,GET,http://localhost/school-management-app/public/api/users,1622461319,,200
